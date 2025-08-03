@@ -31,7 +31,9 @@ Planning to upgrade this with Deep Learning (e.g. CNN-based segmentation) for be
 
 ## 🎥 Output Preview
 
-![Output Frame](./output.png)
+
+![Output Frame](Road%20Lane%20Detection/output.png)
+
 ---
 
 🔗 Feel free to clone, learn, and modify!
